@@ -1,0 +1,39 @@
+Start testing: Mar 22 17:49 CST
+----------------------------------------------------------
+1/2 Testing: test_10_10
+1/2 Test: test_10_10
+Command: "/Users/mazhiwei/Desktop/cmake-test/demo" "10" "10"
+Directory: /Users/mazhiwei/Desktop/cmake-test
+"test_10_10" start time: Mar 22 17:49 CST
+Output:
+----------------------------------------------------------
+large!
+add
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[large]
+"test_10_10" end time: Mar 22 17:49 CST
+"test_10_10" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: test_4_4
+2/2 Test: test_4_4
+Command: "/Users/mazhiwei/Desktop/cmake-test/demo" "4" "4"
+Directory: /Users/mazhiwei/Desktop/cmake-test
+"test_4_4" start time: Mar 22 17:49 CST
+Output:
+----------------------------------------------------------
+small!
+add
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[small]
+"test_4_4" end time: Mar 22 17:49 CST
+"test_4_4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 22 17:49 CST

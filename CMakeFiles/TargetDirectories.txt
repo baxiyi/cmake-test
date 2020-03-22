@@ -1,0 +1,12 @@
+/Users/mazhiwei/Desktop/cmake-test/CMakeFiles/rebuild_cache.dir
+/Users/mazhiwei/Desktop/cmake-test/CMakeFiles/edit_cache.dir
+/Users/mazhiwei/Desktop/cmake-test/CMakeFiles/test.dir
+/Users/mazhiwei/Desktop/cmake-test/CMakeFiles/demo.dir
+/Users/mazhiwei/Desktop/cmake-test/math/CMakeFiles/rebuild_cache.dir
+/Users/mazhiwei/Desktop/cmake-test/math/CMakeFiles/edit_cache.dir
+/Users/mazhiwei/Desktop/cmake-test/math/CMakeFiles/test.dir
+/Users/mazhiwei/Desktop/cmake-test/math/CMakeFiles/add.dir
+/Users/mazhiwei/Desktop/cmake-test/utils/CMakeFiles/test.dir
+/Users/mazhiwei/Desktop/cmake-test/utils/CMakeFiles/rebuild_cache.dir
+/Users/mazhiwei/Desktop/cmake-test/utils/CMakeFiles/edit_cache.dir
+/Users/mazhiwei/Desktop/cmake-test/utils/CMakeFiles/alert.dir
